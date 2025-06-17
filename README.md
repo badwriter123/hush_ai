@@ -2,7 +2,7 @@
 
 "Silence is golden, but not always free. HushAI makes it intelligent."
 
-
+------------------------------------------------------------------------
 
 
 🎯 Project Overview
@@ -20,7 +20,7 @@ This project is perfect for showcasing skills in:
 
 ✅ Interactive Dashboards with Streamlit
 
-
+------------------------------------------------------
 
 ⚙️ Tech Stack
 1. Language           Python3
@@ -31,7 +31,7 @@ This project is perfect for showcasing skills in:
 6. Dataset            UrbanSound8k (for Background Noise)
 
 
-
+------------------------------------------------------
 
 🚀 Features
 🎙️ TTS-based clean voice generation
@@ -46,7 +46,7 @@ This project is perfect for showcasing skills in:
 
 💾 Lightweight, hardware-free implementation
 
-
+------------------------------------------------------
 
 🧠 Theory Behind LMS Filtering
 The Least Mean Squares (LMS) algorithm is a classic adaptive filter that continuously adjusts its parameters to minimize the difference between a desired and an actual signal. It is commonly used in noise cancellation headsets and echo suppression systems.
