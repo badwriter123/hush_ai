@@ -56,3 +56,26 @@ In HushAI, LMS is used to estimate and subtract the noise from the mixed signal 
 
 <Thank You Kindly....!!!!>
 
+------------------------------------------------------
+
+Screenshots ->
+1.
+![PHOTO-2025-06-17-12-29-43](https://github.com/user-attachments/assets/ed2ac50c-eb84-453c-8567-82e37c460a7f)
+DashBoard 👆👆👆
+
+2.
+![PHOTO-2025-06-17-12-30-41](https://github.com/user-attachments/assets/d7a54690-5176-4c9a-b0e5-718f2f0102c5)
+Clean Voice Waveform 👆👆👆
+
+3.
+![PHOTO-2025-06-17-12-31-08](https://github.com/user-attachments/assets/e534bc6f-f69f-4cfc-aff1-309ebce3e237)
+Noisy Waveform 👆👆👆
+
+4.
+![PHOTO-2025-06-17-12-34-43](https://github.com/user-attachments/assets/034099ff-41a4-4f87-a689-419d90c6c3cc)
+Noise Cancelled Waveform 👆👆👆
+
+
+
+
+
