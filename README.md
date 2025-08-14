@@ -34,17 +34,17 @@ This project is perfect for showcasing skills in:
 ------------------------------------------------------
 
 🚀 Features
-🎙️ TTS-based clean voice generation
+🎙️ TTS-based clean voice generation.
 
-🌪️ Realistic noise mixing with UrbanSound8K samples
+🌪️ Realistic noise mixing with UrbanSound8K samples.
 
-🧠 Adaptive Noise Cancellation using LMS filtering
+🧠 Adaptive Noise Cancellation using LMS filtering.
 
-🎧 Before vs After waveform plotting
+🎧 Before vs After waveform plotting.
 
-🖥️ Streamlit Dashboard to visually/audio-wise compare outputs
+🖥️ Streamlit Dashboard to visually/audio-wise compare outputs.
 
-💾 Lightweight, hardware-free implementation
+💾 Lightweight, hardware-free implementation.
 
 ------------------------------------------------------
 
