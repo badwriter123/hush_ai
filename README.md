@@ -10,15 +10,15 @@ HushAI is an AI-enhanced, software-based adaptive noise cancellation system buil
 
 This project is perfect for showcasing skills in:
 
-✅ Python & Signal Processing
+✅ Python & Signal Processing.
 
-✅ Real-Time Audio Filtering
+✅ Real-Time Audio Filtering.
 
-✅ AI + TTS Integration
+✅ AI + TTS Integration.
 
-✅ Data Visualization
+✅ Data Visualization.
 
-✅ Interactive Dashboards with Streamlit
+✅ Interactive Dashboards with Streamlit for live Graph Plotting.
 
 ------------------------------------------------------
 
